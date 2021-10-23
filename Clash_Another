@@ -3,5 +3,5 @@ enable_rule_generator=true
 overwrite_original_rules=true
 ruleset=!!import:https://raw.githubusercontent.com/mikietsang/Clash/main/optimized_ruleset.list
 
-custom_proxy_group=!!import:https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/custom_group_common.list
+custom_proxy_group=!!import:https://raw.githubusercontent.com/mikietsang/Clash/main/custom_group_common.list
 custom_proxy_group=!!import:https://raw.githubusercontent.com/mikietsang/Clash/main/custom_group_nourltest.list
